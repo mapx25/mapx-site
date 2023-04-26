@@ -92,7 +92,6 @@
     color: white;
   }
   
-  /* Add a grey background to dropdown links on hover */
   .dropdown-content a:hover {
     background: linear-gradient(to right, #F7A1FF,#488DFF);
     color: rgb(255, 255, 255);
