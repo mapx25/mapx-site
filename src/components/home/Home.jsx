@@ -15,7 +15,7 @@ export default function Home() {
         </div>
 
         <div className='btn'>
-          <button><a href="https://drive.google.com/file/d/1N2hmAeKCmNn6orZerreoCYn85i1L4cIS/view?usp=share_link">Download APK</a></button>
+          <button className='homeBtn'><a href="https://drive.google.com/file/d/1N2hmAeKCmNn6orZerreoCYn85i1L4cIS/view?usp=share_link">Download APK</a></button>
         </div>
         <video className='bg-video' preload="none" autoPlay loop muted >
             <source src={video}></source>
