@@ -6,7 +6,7 @@ import Eclipse3 from '../../assets/eclipse3.png'
 const Overview = () => {
   return (
     <div className='overview' id='overview'>
-        <h1 className='heading'>Why MapX</h1>
+        <div className='Overheading'>Why MapX</div>
 
         <div className='cards' >
             {/* <div> */}

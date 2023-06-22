@@ -4,9 +4,9 @@ import './description.css'
 const Description = () => {
   return (
     <div className='subtitle' id='about'>
-        <h1 className='title'>
+        <div className='title'>
             Who are We
-        </h1>
+        </div>
 
         <p className='desc'>
         A next-gen geo-tagged playground where players meet<br/>

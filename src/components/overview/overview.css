@@ -3,11 +3,14 @@
 .overview{
     text-align: center;
     margin-top: 10rem;
-    
+    color: #F7A1FF;
 }
-.heading{
+.Overheading{
     font-size: 64px;
     padding-bottom: 1em;
+    /* background-color: none; */
+    color:#F7A1FF;
+    font-weight: bold;
 }
 .cards{
     display: flex;
