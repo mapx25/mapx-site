@@ -3,7 +3,7 @@
   
     -ms-overflow-style: none;
     scrollbar-width: none;
-    
+    background-color: #110027;
 }
 .App::-webkit-scrollbar {
     display: none;
